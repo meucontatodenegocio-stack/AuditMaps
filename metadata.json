@@ -1,0 +1,5 @@
+{
+  "name": "AuditMaps - Consultoria Inteligente",
+  "description": "Gera relatórios de auditoria e sugestões de melhoria para estabelecimentos baseados em links ou nomes do Google Maps usando IA.",
+  "requestFramePermissions": []
+}
